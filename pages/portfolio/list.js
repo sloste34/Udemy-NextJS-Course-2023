@@ -1,7 +1,7 @@
 function ListPage() {
   return (
     <div>
-      <h1>The List Page</h1>
+      <h1>The Portfolio List Page</h1>
     </div>
   );
 }
